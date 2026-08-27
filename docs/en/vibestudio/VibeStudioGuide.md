@@ -10,7 +10,7 @@ you a live preview — all in the browser, no coding required.
 
 ## Getting Started
 
-1. Make sure WorkSwarm is running. See [INSTALLATION.md](INSTALLATION.md).
+1. Make sure WorkSwarm is running. See [VibeStudioInstall.md](VibeStudioInstall.md).
 2. Open VibeStudio in your browser (default: `http://localhost:5174`).
 3. You land on the **Dashboard**.
 
